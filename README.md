@@ -16,10 +16,19 @@ And then execute:
 $ bundle
 ```
 
-Or install it yourself as:
+
+```style.css
+@import 'fall_snow/style.css';
+```
+
+```view_file
+<%= fall_snow %>
+```
+
+<!-- Or install it yourself as:
 ```bash
 $ gem install fall_snow
-```
+``` -->
 
 ## Contributing
 Contribution directions go here.
