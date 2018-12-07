@@ -8,15 +8,14 @@ Gem::Specification.new do |s|
   s.name        = "fall_snow"
   s.version     = FallSnow::VERSION
   s.authors     = ["tatsukichi"]
-  s.email       = [""]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of FallSnow."
-  s.description = "TODO: Description of FallSnow."
+  s.email       = ["ik.t2k.62@gmail.com"]
+  s.homepage    = "https://github.com/tatsuki26/fall_snow"
+  s.summary     = "This gem help your coding."
+  s.description = "This gem is a gem that I made for the first time. This gem will support your rails application."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", "~> 5.2.1"
 
-  s.add_development_dependency "sqlite3"
 end
