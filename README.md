@@ -16,11 +16,12 @@ And then execute:
 $ bundle
 ```
 
-
+style.css
 ```style.css
 @import 'fall_snow/style.css';
 ```
 
+view_file
 ```view_file
 <%= fall_snow %>
 ```
