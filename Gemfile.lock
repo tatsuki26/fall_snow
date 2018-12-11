@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fall_snow (0.1.2)
+    fall_snow (0.1.3)
       rails (~> 5.2.1)
 
 GEM

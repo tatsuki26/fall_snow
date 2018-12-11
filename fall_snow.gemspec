@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "This gem is a gem that I made for the first time. This gem will support your rails application."
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib,vender}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
+  s.files = Dir["{app,config,db,lib,vendor}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", "~> 5.2.1"
 
