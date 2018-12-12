@@ -18,8 +18,12 @@ $ bundle
 ```
 
 app/assets/stylesheets/application.css
-```style.css
+```application.css
 @import 'fall_snow/style.css';
+
+body{
+     background-color: #142744;
+ }
 ```
 
 view_file
