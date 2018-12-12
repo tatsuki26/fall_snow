@@ -7,6 +7,7 @@ How to use my plugin.
 ## Installation
 Add this line to your application's Gemfile:
 
+Gemfile
 ```ruby
 gem 'fall_snow'
 ```
@@ -16,7 +17,7 @@ And then execute:
 $ bundle
 ```
 
-style.css
+app/assets/stylesheets/application.css
 ```style.css
 @import 'fall_snow/style.css';
 ```
